@@ -178,7 +178,12 @@ This comprehensive report enables informed, data-driven decisions, answering var
 
 ## Video Recordings
 
-Watch video recordings of the Power BI files [here](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjljeTJzZDBsb2t5N2Y2bzlsM2owcmh5N2xqdnhpZXlxODVkYXUzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gQUp22MHSYTlrkr4XF/giphy.gif).
+Watch Clip of the Power BI files.
+
+
+
+![Dash Board Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjljeTJzZDBsb2t5N2Y2bzlsM2owcmh5N2xqdnhpZXlxODVkYXUzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gQUp22MHSYTlrkr4XF/giphy.gif)
+
 
 
 
