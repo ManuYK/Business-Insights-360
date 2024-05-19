@@ -136,14 +136,41 @@ Create visuals based on mock-ups and develop measures as needed. Key views inclu
 
 ### Visuals and Interactions
 
-- **Home View**: Central navigation hub. 
-- **Info View**: ![Dash Board Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZyOHZmaWJtNTRsZmdiZWloZ3NudWU2N282bWpvMWF3MWpobndjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RisEy1Dux44Z1sI0Bw/giphy.gif)
+- **Home View**: Central navigation hub.
+
+  
+  ![Dash Board Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJocjlteWxiM2p1aGNqaDVnNWU3cmR5bzNqd3d0NnhkY2F4cXg4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Kcnnpj81dPDN5cXRi/giphy.gif)
+
+
+- **Info View**:
+
+ 
+  ![Dash Board Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZyOHZmaWJtNTRsZmdiZWloZ3NudWU2N282bWpvMWF3MWpobndjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RisEy1Dux44Z1sI0Bw/giphy.gif)
 - **Finance View**: In-depth financial analysis.
+
+
+   ![Dash Board Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFteHRoNWdybmNvZmdpcXY2OTdsOHR1eW02cDZpYXd2enVwMGVleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3mKu2nH9rdQP9EiPo6/giphy.gif)
 - **Sales View**: Comprehensive sales data.
+
+
+ ![Dash Board Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHozbmgwcTk5d3VkdnBhamhkanFsbXVtczFpMm50enE5Yng3dzhhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBQKB2E16hcgGuaKFd/giphy.gif)
 - **Marketing View**: Marketing metrics and analysis.
+
+
+ ![Dash Board Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGo4MGVuNG1nZmtpa3djNjNoNXlyZ2xmNzAyNTF3dHRrNGYzZTdpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOY2No0cgntf1z8TIU/giphy.gif)
 - **Supply Chain View**: Supply chain insights.
+
+
+![Dash Board Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxvMHgzYXJoNHFoM254bnk0ZzJhOWwwZTl2MHp3enh0bjdlNHFpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5yme9iegIhZEZ5tGlv/giphy.gif)
 - **Executive View**: Executive summary and key metrics.
-- **Products**: Detailed product information.
+
+
+![Dash Board Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjh1YWg0Zm40MGF5Y3dia20zMDhsMHprcWR6eWZoZzA0dWt1cTdhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kIaTNwaycppwjlRL2X/giphy.gif)
+
+- **Support View**: 
+
+
+![Dash Board Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTN6cnFxNzluZ2Q1bHpjc3E1YjVxbjA4YjVscW5pNzJ5eWhrNWx5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xp2Q7BMBzTantebqfd/giphy.gif)
 
 ## Project Outcome
 
@@ -151,7 +178,7 @@ This comprehensive report enables informed, data-driven decisions, answering var
 
 ## Video Recordings
 
-Watch video recordings of the Power BI files [here](https://www.example.com).
+Watch video recordings of the Power BI files [here](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjljeTJzZDBsb2t5N2Y2bzlsM2owcmh5N2xqdnhpZXlxODVkYXUzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gQUp22MHSYTlrkr4XF/giphy.gif).
 
 
 
