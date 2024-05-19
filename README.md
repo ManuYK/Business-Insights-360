@@ -136,8 +136,8 @@ Create visuals based on mock-ups and develop measures as needed. Key views inclu
 
 ### Visuals and Interactions
 
-- **Home View**: Central navigation hub.
-- **Info Page**: Detailed project information.
+- **Home View**: Central navigation hub. 
+- **Info View**: ![Dash Board Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZyOHZmaWJtNTRsZmdiZWloZ3NudWU2N282bWpvMWF3MWpobndjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RisEy1Dux44Z1sI0Bw/giphy.gif)
 - **Finance View**: In-depth financial analysis.
 - **Sales View**: Comprehensive sales data.
 - **Marketing View**: Marketing metrics and analysis.
@@ -153,6 +153,7 @@ This comprehensive report enables informed, data-driven decisions, answering var
 
 Watch video recordings of the Power BI files [here](https://www.example.com).
 
+
+
 ---
 
-Replace the placeholders (`https://www.example.com`) with the actual URLs for the course, live report, and video recordings. This Markdown will render correctly on GitHub, providing a clear and interactive README file.
